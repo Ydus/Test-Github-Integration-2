@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="random">#ff5e1990</color>
+    <color name="test">#ffa65555</color>
+    <color name="test_from_small_import">#ff2735b9</color>
+
+
+</resources>
