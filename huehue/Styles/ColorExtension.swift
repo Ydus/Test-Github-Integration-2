@@ -8,7 +8,7 @@ extension Color {
     struct TokenColor {
 
         let testFromSmallImport = Color(.sRGB, red: 39/255, green: 53/255, blue: 185/255, opacity: 1) 
-        let grey1 = Color(.sRGB, red: 189/255, green: 189/255, blue: 189/255, opacity: 1) 
+        let grey2 = Color(.sRGB, red: 155/255, green: 157/255, blue: 202/255, opacity: 1) 
 
         // G2
 
@@ -19,5 +19,9 @@ extension Color {
         // Grey
 
         let baseGreyTest = Color(.sRGB, red: 166/255, green: 85/255, blue: 85/255, opacity: 1) 
+
+        // Neutral
+
+        let baseGreyNeutralGrey1 = Color(.sRGB, red: 189/255, green: 189/255, blue: 189/255, opacity: 1) 
     }
 }
