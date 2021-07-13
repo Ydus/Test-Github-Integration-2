@@ -7,8 +7,17 @@ extension Color {
     
     struct TokenColor {
 
-        let random = Color(.sRGB, red: 94/255, green: 25/255, blue: 144/255, opacity: 1) 
-        let test = Color(.sRGB, red: 166/255, green: 85/255, blue: 85/255, opacity: 1) 
         let testFromSmallImport = Color(.sRGB, red: 39/255, green: 53/255, blue: 185/255, opacity: 1) 
+        let grey1 = Color(.sRGB, red: 189/255, green: 189/255, blue: 189/255, opacity: 1) 
+
+        // G2
+
+        let g2Random = Color(.sRGB, red: 94/255, green: 25/255, blue: 144/255, opacity: 1) 
+
+        // Base
+
+        // Grey
+
+        let baseGreyTest = Color(.sRGB, red: 166/255, green: 85/255, blue: 85/255, opacity: 1) 
     }
 }
