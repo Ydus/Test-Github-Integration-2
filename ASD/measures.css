@@ -1,0 +1,10 @@
+
+:root {
+    --measureDimensionGrp2Grp21NumberN2: 0px;    
+    --measureDimensionGrp1NumberN3: 999999px;    
+    --measureDimensionNumberN1: 1px;    
+    --measureDimensionGrp2NumberB1: 0px;    
+    --measureBorderRadiusBaseCornerRadius: 0px;    
+    --measureBorderRadiusRefCornerRadius: var(--measureBorderRadiusBaseCornerRadius);    
+    --measureFontSizeRefFontSize: var(--measureBorderRadiusBaseCornerRadius);    
+}

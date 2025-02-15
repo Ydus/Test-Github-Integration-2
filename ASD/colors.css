@@ -1,0 +1,11 @@
+
+:root {
+    --colorColorColorC1: #ff0000;    
+    --colorGrp2ColorC3: #ffffff;    
+    --colorGrp1ColorC4: #1f51ff;    
+    --colorColorColorC2: #ffffff;    
+    --colorColorColorB1: #ffffff;    
+    --colorGrp1ColorB2: #ffffff;    
+    --colorColorBaseColor: #ce6868;    
+    --colorColorRefColor: var(--colorColorBaseColor);    
+}
