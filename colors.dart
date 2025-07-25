@@ -11,6 +11,8 @@ class AppColors {
   
   static const refColor = Color(0xffce6868); 
   
+  static const baseSn = Color(0xffffffff); 
+  
   static const grp2ColorC3 = Color(0xffffffff); 
   
   static const grp1ColorC4 = Color(0xff1f51ff); 

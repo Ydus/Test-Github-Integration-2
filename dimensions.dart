@@ -9,9 +9,19 @@ class AppDimensions {
 
   static const fontSizeRefFontSize = 0;
 
+  static const fontSizeGrpMeasuresOnlyGrpMeasuresNestedFontSizeFs1 = 3;
+
+  static const fontSizeGrpMeasuresOnlyGrpMeasuresNestedFontSizeFs2 = 4;
+
   static const borderRadiusBaseCornerRadius = 0;
 
   static const borderRadiusRefCornerRadius = 0;
+
+  static const borderRadiusBaseSn = 0;
+
+  static const borderRadiusGrpMeasuresOnlyCornerRadiusCr1 = 1;
+
+  static const borderRadiusGrpMeasuresOnlyGrpMeasuresNestedCornerRadiusCr2 = 2;
 
   AppDimensions._();
 }
