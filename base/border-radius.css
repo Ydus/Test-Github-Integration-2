@@ -6,5 +6,7 @@
 :root {
   --border-radius-base-corner-radius: 0px;
   --border-radius-base-sn: 0px;
+  --border-radius-grp-measures-only-corner-radius-cr1: 1px;
+  --border-radius-grp-measures-only-grp-measures-nested-corner-radius-cr2: 2px;
   --border-radius-ref-corner-radius: var(--border-radius-base-corner-radius);
 }

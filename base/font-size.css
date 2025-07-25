@@ -4,5 +4,7 @@
  */
 
 :root {
+  --font-size-grp-measures-only-grp-measures-nested-font-size-fs1: 3px;
+  --font-size-grp-measures-only-grp-measures-nested-font-size-fs2: 4px;
   --font-size-ref-font-size: var(--border-radius-base-corner-radius);
 }
