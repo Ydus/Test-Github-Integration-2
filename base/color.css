@@ -12,5 +12,6 @@
   --color-grp-1-color-b2: #ffffff;
   --color-base-color: #ce6868;
   --color-base-sn: #ffffff;
+  --color-extended-color: #cf8787;
   --color-ref-color: var(--color-base-color);
 }

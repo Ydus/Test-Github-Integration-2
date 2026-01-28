@@ -7,5 +7,6 @@
   --string-grp-2-string-s1: "String value";
   --string-grp-1-string-s2: "Hue hue hue";
   --string-base-string: "String value";
+  --string-extended-string: "Parent light";
   --string-ref-string: var(--string-base-string);
 }
