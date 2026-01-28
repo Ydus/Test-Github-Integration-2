@@ -3,9 +3,6 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --color_c1: #ffffff;
-  --color_c2: #9b5757;
-  --color_c3: #234c64;
-  --color_extended_color: #cf8787;
+.theme-brand2-theme {
+  --dimension_extended_number: 69px;
 }
