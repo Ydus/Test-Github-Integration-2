@@ -1,6 +1,8 @@
 class AppDimensions {
   static const dimensionNumberN1 = 1;
 
+  static const dimensionExtendedNumber = 69;
+
   static const dimensionGrp1NumberN3 = 999999;
 
   static const dimensionGrp2NumberB1 = 0;

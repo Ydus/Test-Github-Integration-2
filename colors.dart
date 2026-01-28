@@ -13,6 +13,8 @@ class AppColors {
   
   static const baseSn = Color(0xffffffff); 
   
+  static const extendedColor = Color(0xffcf8787); 
+  
   static const grp2ColorC3 = Color(0xffffffff); 
   
   static const grp1ColorC4 = Color(0xff1f51ff); 
