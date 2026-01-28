@@ -1,0 +1,17 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --color-color-c1: #ff0000;
+  --color-grp-2-color-c3: #ffffff;
+  --color-grp-1-color-c4: #1f51ff;
+  --color-color-c2: #ffffff;
+  --color-color-b1: #ffffff;
+  --color-grp-1-color-b2: #ffffff;
+  --color-base-color: #ce6868;
+  --color-base-sn: #ffffff;
+  --color-extended-color: #cf8787;
+  --color-ref-color: var(--color-base-color);
+}
